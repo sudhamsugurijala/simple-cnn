@@ -1,2 +1,3 @@
-# nethra
-pothole detection software using keras, implemented in python.
+# Pothole Detection Neural Network
+
+A simple binary classification neural network (CNN) used for classifying pothole images from regular road images. 
